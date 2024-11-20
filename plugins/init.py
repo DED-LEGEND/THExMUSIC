@@ -1336,7 +1336,7 @@ ADD_INTERVAL = 200
 
 
 
-users = "LucyXbot"  # don't change because it is connected from client to use music API key
+users = "DxMusicBOT"  # don't change because it is connected from client to use music API key
 async def add_bot_to_chats():
     try:
         userbot = await get_assistant(config.LOG_GROUP_ID)
